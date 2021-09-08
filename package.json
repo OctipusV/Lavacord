@@ -14,7 +14,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/lavacord/lavacord.git"
+    "url": "git+https://github.com/OctipusV/Lavacord.git"
   },
   "keywords": [
     "bot",
